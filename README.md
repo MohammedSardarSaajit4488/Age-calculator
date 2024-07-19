@@ -60,6 +60,6 @@ Push to the Branch (git push origin feature/AmazingFeature).
 Open a Pull Request.
 
 Contact
-Your Name - [@your_twitter](https://x.com/SaajitSardar) - saajitofficial4488@gmail.com
+Your Name - [@X](https://x.com/SaajitSardar) - saajitofficial4488@gmail.com
 
 Project Link: [https://github.com/yourusername/age-calculator](https://github.com/MohammedSardarSaajit4488/Age-calculator)
